@@ -134,3 +134,4 @@ dmypy.json
 **/*.mp4
 **/*.mov
 faceid/ids/
+facenet/anno/
