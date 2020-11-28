@@ -130,5 +130,6 @@ dmypy.json
 
 # My ignore
 **/__pycache__/
+**/output/
 **/*.mp4
 **/*.mov
